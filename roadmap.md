@@ -1,0 +1,4 @@
+- [x] Capture current preview and align on visual direction
+- [x] Generate cohesive property and agent imagery
+- [ ] Build the enterprise real-estate homepage and interactions
+- [ ] Validate responsive rendering, modal, filters, and diagnostics
